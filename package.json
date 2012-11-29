@@ -5,6 +5,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies": {
+    "bigint": "*",
+    "request": "*",
+    "xml2js": "*"
+  },
   "author": "popomore <sakura9515@gmail.com>",
   "license": "MIT"
 }
